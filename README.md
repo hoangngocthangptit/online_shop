@@ -1,14 +1,19 @@
 # online_shop
 
-giao diện user
 
-![image](https://user-images.githubusercontent.com/61647416/175526293-17e479a2-884c-4496-b1d7-64b4bf2f98a8.png)
 
 database
 ![image](https://user-images.githubusercontent.com/61647416/175554064-c9783db7-1cd4-4e7e-bb46-85b325a96b6d.png)
 
 
+giao diện user
+
+![image](https://user-images.githubusercontent.com/61647416/175526293-17e479a2-884c-4496-b1d7-64b4bf2f98a8.png)
+
+
 ![image](https://user-images.githubusercontent.com/61647416/175526316-1a1961b4-c1a2-4e0a-8225-25ec4b6b0881.png)
+
+![image](https://user-images.githubusercontent.com/61647416/175765878-e65a1f56-b75b-482c-881a-272757c137f5.png)
 
 ![image](https://user-images.githubusercontent.com/61647416/175526333-bb860109-4ca5-4ba3-8a95-64ae48f8e07e.png)
 
