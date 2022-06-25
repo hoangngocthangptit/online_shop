@@ -32,7 +32,12 @@ public class QuanTriController {
 
     @Autowired
     private NhanHieuService nhanHieuService;
-
+    @GetMapping({"/", "/hello"})
+    public String hello(Model model,
+                        @RequestParam(value="name", required=false, defaultValue="World") String name) {
+        model.addAttribute("name", name);
+        return "hello";
+    }
     @ModelAttribute("cacDanhMuc")
     public List<DanhMuc> layTatCaDanhMuc(){
         return danhMucService.tatCaDanhMuc();
