@@ -10,7 +10,7 @@
     <title>Thông tin tài khoản</title>
 </head>
 <body>
-<jsp:include page="include/header.jsp"></jsp:include>
+<jsp:include page="include/header.ftl"></jsp:include>
 
 <jsp:include page="include/thongtinContent.jsp"></jsp:include>
 
